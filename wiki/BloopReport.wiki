@@ -1,6 +1,7 @@
 =Report on the BlooP/FlooP compiler=
 
 Jaap Weel
+
 1 June 2005
 
 ==Introduction==
@@ -286,5 +287,8 @@ Generic programming in Haskell:
   * Scrap your boilerplate: a practical design pattern for generic programming; R Laemmel, SLP Jones - TLDI, 2003 - portal.acm.org
 
 
+==Post Scriptum==
+
+Kudos to Google for their well thought out Wiki syntax. This report was originally a text file, but converting it to a Google Wiki page was a breeze.
 
 
